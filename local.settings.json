@@ -1,32 +1,13 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "APPINSIGHTS_INSTRUMENTATIONKEY": "03049577-5ca5-4041-8af9-169de8371437",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "ArchiveBlobContainer": "archive",
-    //"StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=pod03devrcksacct;AccountKey=gA2f5vzUnZJ2qlNpFhM/A1ZzZHQQgAEjrF06z4PSlUuxxT0y2NsaG3PGjrjarYunvKaRz+Fp+YkZ37M2GcN4cg==;EndpointSuffix=core.windows.net",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=pod03devrcksacct;AccountKey=gA2f5vzUnZJ2qlNpFhM/A1ZzZHQQgAEjrF06z4PSlUuxxT0y2NsaG3PGjrjarYunvKaRz+Fp+YkZ37M2GcN4cg==;EndpointSuffix=core.windows.net",
-    "CommonStorageConnetionString": "DefaultEndpointsProtocol=https;AccountName=pod03devfrmsacct;AccountKey=pEQdJeKqpg/qKMfxLEfvj2fbHeVA5F2QSxYkmhKNtxossji3DwoIu9Ek87fiXJQusSNZpsfEAJBymZuPGiRf/g==;EndpointSuffix=core.windows.net",
-    //"OrderNumberElementName": "Channel_reference_id",
     //"FUNCTIONS_EXTENSION_VERSION": "~3",
-    "MICROSOFT_PROVIDER_AUTHENTICATION_SECRET": "Go.8Q~JpSJAf2vZFuuU7UlcvN3LB3RJBabPp.dj-",
-    //"PartnershipCode": "Order_QA",
-    //"PartnerShipCompanyCode": "RCK",
-    //"PartnerShipCompanyId": "1",
-    //"PartnerShipCustomerCode": "ROCKLER",
-    //"PartnershipCustomerId": "1000",
-    //"PartnershipId": "cd5d997c-1105-46c4-bd1b-f9745bbe1077",
-    //"TargetTopic": "RCK_RCK_ROCKLER_IN_431_Load",
-    "TenantId": "01d2b735-ec97-4414-95ea-dad6ef86df35",
-    //"TotalSteps": "3",
-    //"TransactionName": "Order_QA Inbound ROCKLER",
-    //"TransactionSetCode": "Order_QA",
-    //"TransactionSetId": "431",
-    //"TransactionStep": "Load",
-    //"TransactionType": "Batch",
-    //"WEBSITE_ENABLE_SYNC_UPDATE_SITE": "true",
-    //"WEBSITE_RUN_FROM_PACKAGE": "1",
+    "MICROSOFT_PROVIDER_AUTHENTICATION_SECRET": "",
+    "TenantId": "",
     "WEBSITE_TIME_ZONE": "Eastern Standard Time",
-    "ProcessNameXmlPath": "/request/processname"
+    "ProcessNameXmlPath": ""
   }
 }
